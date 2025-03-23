@@ -17,7 +17,7 @@ p, h1,h2,h3,h4,h5,h6 {
 }
 .container {
     width: 1158px;
-    padding: 0 15px; 
+    padding: 0 15px;
     margin: 0 auto;
     justify-content: center;
 }
@@ -222,6 +222,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
+margin-bottom: 8px;
 }
 
 
