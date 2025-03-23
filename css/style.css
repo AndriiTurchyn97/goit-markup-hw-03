@@ -54,6 +54,7 @@ img {
 
 .header-logo {
  margin-right: 76px;
+ padding: 24px 0;
 }
 
 .logo-nav {
@@ -93,6 +94,7 @@ font-weight: 500;
 
 .link-mail-phone {
      font-style: normal;
+     padding: 24px 0;
 }
 .link-address {
     color: #434455;
